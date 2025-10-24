@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Neena 👋
 
-<!--
-**MaulidyaAyu/MaulidyaAyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about UI/UX and Front-end Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Neena's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulidyaAyu&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaulidyaAyu&layout=compact&theme=tokyonight)
+
+---
+✨ _“Design with logic, build with empathy.”_
